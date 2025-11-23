@@ -1,0 +1,26 @@
+Deep Learning Specialization by Andrew Ng (Coursera)
+https://www.coursera.org/specializations/deep-learning
+
+Kaggle – Tutorial: Machine Learning Interpretability
+https://www.kaggle.com/code/datacog314/tutorial-machine-learning-interpretability
+
+Analytics Vidhya – Techniques to Handle Class Imbalance in Machine Learning
+https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/
+
+GeeksforGeeks – Handling Imbalanced Data for Classification
+https://www.geeksforgeeks.org/machine-learning/handling-imbalanced-data-for-classification/
+
+KDnuggets – How to Deal with Categorical Data in Machine Learning
+https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
+
+Machine Learning Mastery – Hyperparameters for Classification Algorithms
+https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/
+
+Medium – Master the Art of Feature Engineering and Feature Selection
+https://medium.com/@chenycy/master-the-art-of-feature-engineering-and-feature-selection-e6e87f76f89b
+
+GeeksforGeeks – Compute Classification Report and Confusion Matrix in Python
+https://www.geeksforgeeks.org/machine-learning/compute-classification-report-and-confusion-matrix-in-python/
+
+Scikit-learn – Classification Report Documentation
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
